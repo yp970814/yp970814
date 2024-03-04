@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<!--
-**yp970814/yp970814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 # 联系方式
 
 （HR会打印你的简历，用于在面试的时候联系，所以联系方式放到最上边会比较方便）
