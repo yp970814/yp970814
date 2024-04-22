@@ -71,5 +71,5 @@ Java8、Tomcat8、Oracle、Hibernate、Spring、SpringMVC、Dorado
       
 ---      
 # 致谢
-感谢您花时间阅读我的简历，期待能有机会和您共事。
+感谢您花时间阅读我的简历。
       
